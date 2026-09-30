@@ -25,6 +25,11 @@
 <h2>👤 Perfil do Atleta</h2>
 <p>
   informações para organizar registros.
-  
-</p>
+ </p>
+</div>
+  <div class="grid-perfil">
+  <div class="campo">
+  <label>Nome</label>
+
+
 </body>
