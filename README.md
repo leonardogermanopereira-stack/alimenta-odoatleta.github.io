@@ -30,6 +30,39 @@
   <div class="grid-perfil">
   <div class="campo">
   <label>Nome</label>
+  <input>
+    type="text"
+    id="atletaNome"
+    placeholder="Nome do Atleta">
+  </div>
+  <div class="campo">
+    <label>Modalidade</label>
+    <input>
+     type="text"
+     placeholder="Ex: futebol">
+  </div>
+  <div class="campo">
+    <label>Equipe / Clube</label>
+  <input>
+    type="text"
+    id="equipe"
+    placeholder="Nome da equipe">
+  </div>
 
-
-</body>
+  </div>
+  </section>
+  <!--RESUMO -->
+  <section class="dashboard">
+  <div class="indicador">
+   <span>🍽</span>
+   <div>
+     <small>Refeições registradas</small>
+     <String id="totalRefeições=>0</strong>
+    </div>
+  </div>
+  <div class="indicador agua">
+  <span>💧</span>
+  <div>
+    <small>Água Registrada</small>
+  </div>
+  </body>
