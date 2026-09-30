@@ -64,5 +64,53 @@
   <span>💧</span>
   <div>
     <small>Água Registrada</small>
+    <strong id="aguaTotal">0 L</strong>
   </div>
-  </body>
+  </div>
+  <div class="indicador sono">
+  <span>😴</span>
+  <div>
+  <small>Sono</small>
+  <Strong id="sonoTotal">--</Strong>
+  </div>
+  </div>
+  <div class="indicador de energia">
+  <span>⚡️</span>
+  <div>
+   <small>energia percebida</small>
+    <strong id="energiaTotal">--</strong>strong>
+    </div>
+  </div>
+     </section> 
+  <!--REGISTRO DE REFEIÇÃO-->
+  <section class="card">
+   <div class="titulo">
+   <h2>🍽 Registrar refeição</h2>
+  </p>
+   </div>
+    <form id="formRefeição">
+    <input type="hidden" id="refeicaold">
+    <div class="form-grid">
+     <div class="campo">
+       <label>Tipo de Refeição *</label>
+       <select id="tipoRefeicao" required>
+        <option vale="">
+          Selecione
+        </option>
+        <option>
+          Café da Manhã
+        </option>
+        <option>
+          Lanche da Manhã
+        </option>
+         <option>
+           Almoço 
+         </option>
+         <option>
+           Lanche da tarde
+         </option>
+         <option>
+           Lanche da tarde
+         </option>
+         
+     </body>
